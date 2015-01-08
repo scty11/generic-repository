@@ -1,0 +1,10 @@
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyDataAccessGeneric\MyDataAccessGeneric\bin\Debug\MyDataAccessGeneric.exe.config
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyDataAccessGeneric\MyDataAccessGeneric\obj\Debug\MyDataAccessGeneric.csprojResolveAssemblyReference.cache
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyDataAccessGeneric\MyDataAccessGeneric\bin\Debug\MyDataAccessGeneric.exe
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyDataAccessGeneric\MyDataAccessGeneric\bin\Debug\MyDataAccessGeneric.pdb
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyDataAccessGeneric\MyDataAccessGeneric\obj\Debug\MyDataAccessGeneric.exe
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyDataAccessGeneric\MyDataAccessGeneric\obj\Debug\MyDataAccessGeneric.pdb
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyDataAccessGeneric\MyDataAccessGeneric\bin\Debug\EntityFramework.dll
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyDataAccessGeneric\MyDataAccessGeneric\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyDataAccessGeneric\MyDataAccessGeneric\bin\Debug\EntityFramework.xml
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyDataAccessGeneric\MyDataAccessGeneric\bin\Debug\EntityFramework.SqlServer.xml
